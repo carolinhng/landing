@@ -1,0 +1,30 @@
+.footer_content ul li {
+  display: inline;
+  cursor: pointer;
+}
+
+.footer_content ul{
+  padding-left: 0;
+  margin: 0;
+}
+
+.footer_content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 2rem;
+}
+
+footer {
+  background-color: #2C2B2B;
+  padding: 4rem;
+}
+
+.footer_content p {
+  font-size: 1rem;
+  margin: 0;
+  color: rgb(100, 100, 100);
+  padding-top: 1rem;
+}
